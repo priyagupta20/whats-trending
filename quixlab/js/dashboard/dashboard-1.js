@@ -325,7 +325,7 @@
             defaultFontFamily: 'Montserrat',
             datasets: [{
                 data: [0, 15, 57, 12, 85, 10],
-                label: "iPhone X",
+                label: "Dell Vostro",
                 backgroundColor: 'transparent',
                 borderColor: '#847DFA',
                 borderWidth: 2,
