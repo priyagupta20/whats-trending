@@ -182,7 +182,7 @@
     ['screen and (min-width: 640px)', {
       axisX: {
         labelInterpolationFnc: function(value, index) {
-          return index % 4 === 0 ? 'W' + value : null;
+          return index % 4 === 0 ?  value : null;
         }
       }
     }]
